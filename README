@@ -1,0 +1,4 @@
+1. preprocess the gene expression data and methylation data using "read.methylation.BRCA.preprocessing.2.r" 
+You can download HumanMethylation450 and HiSeqV2 from https://xenabrowser.net/datapages/?cohort=TCGA%20Breast%20Cancer%20(BRCA)&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
+2. Predict gene expression using "function_genome_trial_enet.0.5_test_R2_lambda.min_entire.sample.allprobes.m.meth.by.distance_brca.same.person.same.fold.r"
+For more questions, please email to soyeon.kim21@chp.edu. Thanks!
