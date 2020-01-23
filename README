@@ -6,7 +6,7 @@ bioRxiv 472589; doi: https://doi.org/10.1101/472589
 1. install packages GenomicRanges, glmnet, data.table, R.utils, and REMP
 2. Input "study" variable, which is study abbreiviation at TCGA at function.study.name.download_files.SEQ_genome_trial_geneEXPLORE.r
 Default is BRCA - breast cancer. Full list of abbreviation is available at https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables/tcga-study-abbreviations
-2. Run function.study.name.download_files.SEQ_genome_trial_geneEXPLORE.r
+2. Run function.study.name.download_files.SEQ_genome_trial_geneEXPLORE_save_train.r
 
 
 
